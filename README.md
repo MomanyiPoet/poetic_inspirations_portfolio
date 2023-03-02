@@ -15,4 +15,9 @@ This page features reviews of poetry books and collections, written by our team 
 ## 4. Quotes page: 
 This page features a curated selection of famous quotes and passages from some of the most well-known poets and writers of all time. These quotes are intended to inspire and encourage readers, providing a source of motivation and insight.
 
-Overall, our goal is to create a space where readers can explore the beauty and power of poetry. Whether you are an avid poetry reader or just beginning to explore this genre, we hope that our website provides something of value for you.
+- Overall, our goal is to create a space where readers can explore the beauty and power of poetry. Whether you are an avid poetry reader or just beginning to explore this genre, we hope that our website provides something of value for you.
+
+![](Capture.PNG)
+
+## Website Link
+- https://poetic-inspirations.netlify.app/
